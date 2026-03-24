@@ -30,3 +30,6 @@ class TestMaksukortti(unittest.TestCase):
 
     def test_luotu_kortti_on_olemassa(self):
         self.assertNotEqual(self.kortti, None)
+
+    def test_str_palauttaa_oikean_merkkijonon(self):
+        self.assertEqual(str(self.kortti), "Kortilla on rahaa 10.00 euroa")
