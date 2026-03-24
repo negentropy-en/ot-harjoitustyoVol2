@@ -5,3 +5,5 @@ Teen **ohjelmistotekniikan harjoitustyötä** ja samalla harjoittelen *versionha
 [Laskarit](laskarit)
 
 [Requirements Specification](dokumentaatio/vaatimusmaarittely.md)
+
+[Tuntikirjanpito](dokumentaatio/tuntikirjanpito.md)
